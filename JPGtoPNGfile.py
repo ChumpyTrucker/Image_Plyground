@@ -13,5 +13,5 @@ print(os.path.exists(output_folder))
 
 
 # loop through Pokedex,
-# convert images to png
-# save to the new folder.
+# convert the images to png
+# save it to the new folder.
